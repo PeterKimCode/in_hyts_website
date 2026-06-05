@@ -169,7 +169,7 @@ function buildLayout(title, content, extraScript = '') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${title} | 총회신학연구원</title>
+    <title>${title} | 국제신학연구원</title>
     <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable.css">
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <link rel="icon" type="image/png" href="../../assets/images/site-logo.png">
@@ -181,8 +181,8 @@ function buildLayout(title, content, extraScript = '') {
             <a class="logo-area" href="../../index.html">
                 <img src="../../assets/images/site-logo.png" alt="학교 로고" class="main-logo-image">
                 <div class="logo-text">
-                    <h1>총회신학학술연구원</h1>
-                    <span>대한예수교장로회(한영)총회신학학술연구원</span>
+                    <h1>국제신학학술연구원</h1>
+                    <span>대한예수교장로회(한영)총회인준신학학술연구원</span>
                 </div>
             </a>
             <div class="top-links-area">
@@ -236,10 +236,10 @@ function buildLayout(title, content, extraScript = '') {
             <div class="footer-grid">
                 <div class="f-col">
                     <h6>OUR CAMPUS</h6>
-                    <h3 class="f-brand">총회신학학술연구원</h3>
-                    <p>대한예수교장로회(한영)<br>총회신학학술연구원</p>
-                    <p><strong>Phone:</strong> (031) 677-8428</p>
-                    <p><strong>Email:</strong> admin@hyts.ac.kr</p>
+                    <h3 class="f-brand">국제신학학술연구원</h3>
+                    <p>대한예수교장로회(한영)<br>총회인준신학학술연구원</p>
+                    <p><strong>Phone:</strong> (046) 402-1779</p>
+                    <p><strong>Email:</strong> yjisc@naver.com</p>
                 </div>
                 <div class="f-col f-links">
                     <h6>QUICK LINKS</h6>
@@ -258,7 +258,7 @@ function buildLayout(title, content, extraScript = '') {
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 대한예수교장로회(한영)총회신학학술연구원. All rights reserved.</p>
+                <p>&copy; 2026 대한예수교장로회(한영)총회인준신학학술연구원. All rights reserved.</p>
             </div>
         </div>
     </footer>
